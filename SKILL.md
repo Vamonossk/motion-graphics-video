@@ -10,7 +10,7 @@ Every step follows the 5 hacks in `references/hacks.md`: one style, real referen
 one loop clock, and checking frames, not code.
 
 `$SKILL` below means this skill's folder (usually `~/.claude/skills/claude-video-studio`).
-Make a new work folder for each piece (for example `./video-<short-name>/`). Never build inside `$SKILL`.
+Make a new work folder for each piece inside `$SKILL/projects/` (for example `$SKILL/projects/video-<short-name>/`). Never build directly in `$SKILL` itself (project content goes under `projects/`).
 
 ## Before you start
 

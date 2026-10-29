@@ -12,3 +12,6 @@ stills/
 node_modules/
 .DS_Store
 *-silent.mp4
+# Daniel's projects (outputs, not part of the public fork)
+projects/
+__pycache__/
